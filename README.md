@@ -1,3 +1,3 @@
 # ProgramacaoInternet
  
-oi, fessora
+tchau, fessora
