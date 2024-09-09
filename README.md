@@ -1,3 +1,3 @@
 # ProgramacaoInternet
  
-oi, fessor
+oi, fessora
